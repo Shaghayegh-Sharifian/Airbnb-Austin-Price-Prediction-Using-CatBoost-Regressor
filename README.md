@@ -1,6 +1,4 @@
 # Airbnb-Austin-Price-Prediction-Using-CatBoost-Regressor
-<br>
-
 # **Introduction and project aim**<br>
 Airbnb is a home-sharing platform that allows homeowners and renters ('hosts') to put their properties ('listings') online so that guests can pay to stay in them. Hosts are expected to set their prices for their listings. Although Airbnb and other sites provide some general guidance, there are currently no free services that help hosts price their properties. Paid third-party pricing software is available, but generally, you are required to put in your expected average price ('base price’), and the algorithm will vary the daily price around that base price on each day depending on the day of the week, seasonality, how far away the date is, and other factors.
 <br>
